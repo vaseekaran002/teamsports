@@ -1,0 +1,21 @@
+#nav-list a{
+ color:aliceblue;
+}
+
+#nav-list a:hover{
+background: gray;
+border-radius: 10px;
+}
+
+.navbar-brand{ 
+    /* font-family: 'Lora', serif; */
+    font-family: 'Bebas Neue', cursive;
+    color: aliceblue;
+    font-size: 3.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: .75;
+  }

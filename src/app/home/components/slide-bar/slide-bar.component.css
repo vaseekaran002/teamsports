@@ -1,0 +1,47 @@
+.img-responsive{
+    margin: 0px;
+    height:700px;
+    
+}
+#home{
+    background-color: darkgray;
+}
+#head-txt{
+    margin-top: 200px;
+   color : black;
+   font-size: 52px;
+   font-family: 'Oswald', sans-serif;
+   text-shadow: 5px;
+}
+
+#head-txt2{
+    text-align: center;
+    color: aliceblue;
+    font-size:20px ;
+}
+
+a.btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+a.btn-first{
+    background-color: black;
+    color: azure;
+    margin-left: 50px;
+
+}
+
+a.btn-second{
+    background: transparent;
+    color: azure;
+    border: 2px solid black;
+    margin-left: 120px;
+}
+
+a.btn:hover{
+    box-shadow: 5px 5px 10px black;
+    transition: 0.3ss;
+}
